@@ -2,7 +2,7 @@
 
 Unleash the power of data into the hands of more people.
 
-Textea combines data analyzing, processing, and visualization in the one-page experience.
+Textea combines data analysis, processing, and visualization in the one-page experience.
 
 ## Open Sources
 
