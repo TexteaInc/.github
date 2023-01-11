@@ -1,6 +1,6 @@
 ## Who we are
 
-We bring the power of data analytics to the hands of everyone. We believe that data analytics should not be a priledge to data scientists, machine learning engineers, or those who can code. 
+We put the power of data analytics into the hands of everyone. We believe that data analytics should not be a priledge to data scientists, machine learning engineers, or those who can code. 
 
 ## Open Source
 
