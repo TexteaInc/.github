@@ -1,10 +1,8 @@
-## Our Goals
+## Who we are
 
-Unleash the power of data into the hands of more people.
+We bring the power of data analytics to the hands of everyone. We believe that data analytics should not be a priledge to data scientists, machine learning engineers, or those who can code. 
 
-Textea combines data analysis, processing, and visualization in the one-page experience.
-
-## Open Sources
+## Open Source
 
 ### [json-viewer](https://github.com/TexteaInc/json-viewer)
 
@@ -16,14 +14,7 @@ Yjs connector using socket.io.
 
 ## Our Products
 
-### yodas(closed alpha)
+### Funix(closed alpha, to release in Jan 2023)
 
-More than SpreadSheets like Excel and Google Docs. yodas is a next-gen data analysis platform that brings FaaS, version control, collaborative, and smart query altogether.
+Building data apps declaratively without manually creating widgets.
 
-### Funix(closed alpha)
-
-Data processing framework
-
-### Redstone(closed aplha)
-
-Redstone combines the best data processing experience for developers. 
