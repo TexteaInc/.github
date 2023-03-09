@@ -4,7 +4,7 @@ We put the power of data analytics into the hands of everyone. We believe that d
 
 ## What we build -- with the help of the community
 
-### [Funix](https://github.com/TexteaInc/json-viewer) -- The laziest way to build web apps in Python
+### [Funix](https://github.com/TexteaInc/Funix) -- The laziest way to build web apps in Python
 
 Build without manually creating widgets -- or do it declaratively when needed. 
 
