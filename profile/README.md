@@ -4,7 +4,7 @@ We put the power of data analytics into the hands of everyone. We believe that d
 
 ## What we build -- with the help of the community
 
-### [Funix](https://github.com/TexteaInc/Funix) -- The laziest way to build web apps in Python
+### [Funix.io](https://github.com/TexteaInc/Funix) -- The laziest way to build web apps in Python
 
 * Build web apps without manually creating widgets -- or do it declaratively when needed. 
 * Non-intrusive and effortless: Add a one-line decorator to your Python function and get a web app automatically
